@@ -78,11 +78,11 @@
 
                     <div class="navbar-collapse collapse navbar-right" id="navbar">
                         <ul class="nav navbar-nav">
-                            <li><a href="index.html" title="Services">Home</a></li>
-                            <li><a title="Menus" href="our-menus.html">SOBRE</a></li>
+                            <li><a href="index.php" title="Página principal">Home</a></li>
+                            <li><a title="Menus" href="#sobre">SOBRE</a></li>
                             <li><a title="Pricing" href="#pricing-section">PREÇOS</a></li>
-                            <li><a title="Shop Category" href="shop-category.html">LOJA</a></li>
-                            <li><a title="Order Now" href="order-now.html">DES PRODUTO</a></li>
+                            <li><a title="Shop Category" href="produtos.php">LOJA</a></li>
+                            <li><a title="Order Now" href="produto1.php">DES PRODUTO</a></li>
                             <li><a title="Contato" href="#contato">CONTATO</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->

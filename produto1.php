@@ -23,7 +23,7 @@
             <div class="section-header">
                 <h3>made for you</h3>
                 <h5>Our creations only for you with love</h5>
-                <img src="img/header-seprator.png" alt="seprator">
+            <img src="images/icons/separador.png" alt="seprator">
             </div><!-- Section Header /- -->
             <div class="order-content">
                 <p>Suspendisse leo odio, scelerisque id ullamcorper vitae, iaculis bibendum magna. Etiam convallis porttitor diam at rutrum. Suspendisse potenti. In tristique nisl, vel porta nisi.</p>
@@ -118,5 +118,6 @@
         </div><!-- Content Area /- -->
     </div><!-- Container -->
 </div><!-- Product Section -->
+
 <?php include_once 'footer.php'; ?>
         

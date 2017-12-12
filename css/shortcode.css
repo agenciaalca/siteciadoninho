@@ -1045,6 +1045,7 @@
 /* - Oredr Section */
 .order-section {
 	background-color: #f1f1f1;
+        padding-bottom: 25px;
 }
 .order-section .order-box {
 	text-align: right;
@@ -1052,6 +1053,7 @@
 	padding-top: 25px;
 	padding-left: 15px;
 	padding-right: 15px;
+        
 }
 .order-section .order-right {
 	width: 45.6770%;
