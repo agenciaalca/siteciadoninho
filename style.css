@@ -54,6 +54,9 @@
 @import "css/shortcode.css";
 
 /* * Body */
+.container{
+    max-width: 950px;
+}
 
 body {
 	font-family: 'Raleway', sans-serif;

@@ -25,31 +25,17 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a href="index.html" class="navbar-brand">cia do ninho</a>
+                        <a href="index.php" class="navbar-brand"><img src="images/icons/logo_simbolo-03.png" width="120px" alt="logo marca cia do ninho"></a>
                     </div>
-                   
+
                     <div class="navbar-collapse collapse navbar-right" id="navbar">
                         <ul class="nav navbar-nav">
-                            	
-                                    <li><a href="index.html" title="Services">Home 1</a></li>
-                                    <li><a href="index2.html" title="Gallery">Home 2</a></li>
-                               
-                            <li><a title="Menus" href="our-menus.html">Menus</a></li>
-                            <li><a title="About Us" href="about-us.html">About Us</a></li>
-                            <li><a title="Team" href="team.html">Team</a></li>
-                           
-                            <li><a title="Pricing" href="#pricing-section">Pricing</a></li>
-                            <li><a title="Reservation" href="#reservation-section">Reservation</a></li>
-                            <li class="dropdown">
-                                <a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Pages" href="#">Pages</a>
-                                <i class="ddl-switch fa fa-angle-down"></i>
-                                <ul class="dropdown-menu">	
-                                    <li><a title="Shop Category" href="shop-category.html">Shop Category</a></li>
-                                    <li><a title="Order Now" href="order-now.html">Order Now</a></li>
-                                    <li><a title="Contact Us" href="contact-us.html">Contact Us</a></li>
-                                    <li><a title="404" href="404.html">404</a></li>
-                                </ul>
-                            </li>
+                            <li><a href="index.html" title="Services">Home</a></li>
+                            <li><a title="Menus" href="our-menus.html">SOBRE</a></li>
+                            <li><a title="Pricing" href="#pricing-section">PREÇOS</a></li>
+                            <li><a title="Shop Category" href="shop-category.html">LOJA</a></li>
+                            <li><a title="Order Now" href="order-now.html">DES PRODUTO</a></li>
+                            <li><a title="Contato" href="#contato">CONTATO</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
                 </nav><!-- nav /- -->
@@ -59,278 +45,45 @@
 
     <main>
         <!-- Slider Section 1 -->
-        <div id="home-revslider" class="slider-section container-fluid no-padding">
-            <!-- START REVOLUTION SLIDER 5.0 -->
-            <div class="rev_slider_wrapper">
-                <div id="home-slider1" class="rev_slider" data-version="5.0">
-                    <ul> 
-                        <li data-transition="zoomout" data-slotamount="default"  data-easein="easeInOut" data-easeout="easeInOut" data-masterspeed="2000" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7">
-                            <!-- LAYERS -->
-                            <!-- LAYER NR. 1 -->
-                            <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-1" 
-                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                 data-y="['middle','middle','middle','middle']" data-voffset="['-140','-140','-135','-225']" 
-                                 data-fontsize="['46','40','30','25']"
-                                 data-lineheight="['100','70','70','65']"
-                                 data-width="none"
-                                 data-height="none"
-                                 data-whitespace="nowrap"
-                                 data-transform_idle="o:1;"
-                                 data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="1000" 
-                                 data-splitin="chars" 
-                                 data-splitout="none" 
-                                 data-responsive_offset="on"
-                                 data-elementdelay="0.05" 
-                                 style="z-index: 5; white-space: nowrap; position:relative; color:#333; font-weight: normal; font-family: 'Montserrat', sans-serif; text-transform: uppercase;">riga candies
-                            </div>
+        <section id="home" class="slider-section">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                </ol>
 
-                            <!-- LAYER NR. 2 -->
-                            <div class="tp-caption NotGeneric-SubTitle tp-resizeme rs-parallaxlevel-0" id="slide-layer-2" 
-                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                 data-y="['middle','middle','middle','middle']" data-voffset="['-70','-70','-90','-180']" 
-                                 data-fontsize="['18','18','14','14']"
-                                 data-lineheight="['28','28','28','15']"
-                                 data-width="['1920','1024','768','480']"
-                                 data-height="none"
-                                 data-whitespace="normal"
-                                 data-transform_idle="o:1;"
-                                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="1500" 
-                                 data-splitin="none" 
-                                 data-splitout="none" 
-                                 data-responsive_offset="on" 
-                                 style="z-index: 6; white-space: noraml; text-align: center; min-width: 1920px; max-width: 1920px; position:relative; color:#777; font-weight:500; font-family: 'Raleway', sans-serif;">A shadowy flight into the dangerous world of a man who  four five six seven eight    
-                            </div>
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <img src="images/banners/banner_1.png" alt="...">
+                        <div class="carousel-caption">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="images/banners/banner_2.png" alt="...">
+                        <div class="carousel-caption">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="images/banners/banner_3.png" alt="...">
+                        <div class="carousel-caption">
+                        </div>
+                    </div>
+                </div>
 
-                            <!-- LAYER NR. 3 -->
-                            <div class="tp-caption NotGeneric-SubTitle tp-resizeme rs-parallaxlevel-0" id="slide-layer-3" 
-                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                 data-y="['middle','middle','middle','middle']" data-voffset="['-40','-40','-60','-155']" 
-                                 data-fontsize="['18','18','14','14']"
-                                 data-lineheight="['28','28','28','28']"
-                                 data-width="none"
-                                 data-height="none"
-                                 data-whitespace="nowrap"
-                                 data-transform_idle="o:1;"
-                                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="1500" 
-                                 data-splitin="none" 
-                                 data-splitout="none" 
-                                 data-responsive_offset="on" 
-                                 style="z-index: 6; white-space: nowrap; position:relative; color:#777; font-weight:500; font-family: 'Raleway', sans-serif;">clemeel schlemazel hasenfeffer incorporated.     
-                            </div>
-
-                            <!-- LAYER NR. 4 -->
-                            <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0 slide-btn" id="slide-layer-4" 
-                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                 data-y="['top','top','top','top']"  data-voffset="['370','300','215','150']"
-                                 data-fontsize="['14','70','70','12']"
-                                 data-lineheight="['60','70','70','90']"
-                                 data-width="none"
-                                 data-height="none"
-                                 data-whitespace="noraml"
-                                 data-transform_idle="o:1;"
-                                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="1500" 
-                                 data-splitin="none" 
-                                 data-splitout="none"							
-                                 data-responsive_offset="on"							
-                                 style="z-index:6; position:relative;">
-                                <a style="font-weight: 700; padding: 12px 37px; font-family: 'Raleway', sans-serif;" href="#" title="Want to view">want to view</a>
-                                <a style="font-weight: 700; padding: 12px 37px; font-family: 'Raleway', sans-serif;" href="#" title="Read More">Read More</a>
-                            </div>
-                            <div class="tp-caption NotGeneric-Icon tp-resizeme rs-parallaxlevel-1 slider-img" id="slide-layer-5" 
-                                 data-x="['left','left','left','left']" data-hoffset="['360','130','10','0']" 
-                                 data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-75','-75','-50','-50']"
-                                 data-fontsize="['20','60','60','60']"
-                                 data-lineheight="['70','70','70','90']"
-                                 data-width="none"
-                                 data-height="none"
-                                 data-whitespace="nowrap"
-                                 data-transform_idle="o:1;"
-                                 data-style_hover="cursor:default;"
-                                 data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="2000" 
-                                 data-splitin="none" 
-                                 data-splitout="none" 
-                                 data-responsive_offset="on" 
-                                 style="white-space: nowrap;">
-                                <img src="img/slider-1.png" alt="slider">
-                            </div>
-                            <div class="tp-caption NotGeneric-Icon tp-resizeme rs-parallaxlevel-1 slider-img" id="slide-layer-6" 
-                                 data-x="['right','right','right','right']" data-hoffset="['360','130','10','0']" 
-                                 data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-75','-75','-50','-50']"
-                                 data-fontsize="['20','60','60','60']"
-                                 data-lineheight="['70','70','70','90']"
-                                 data-width="none"
-                                 data-height="none"
-                                 data-whitespace="nowrap"
-                                 data-transform_idle="o:1;"
-                                 data-style_hover="cursor:default;"
-                                 data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="2000" 
-                                 data-splitin="none" 
-                                 data-splitout="none" 
-                                 data-responsive_offset="on" 
-                                 style="white-space: nowrap;">
-                                <img src="img/slider-2.png" alt="slider">
-                            </div>
-                        </li>
-
-                        <li data-transition="zoomout" data-slotamount="default"  data-easein="easeInOut" data-easeout="easeInOut" data-masterspeed="2000" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7">
-                            <!-- LAYERS -->
-                            <!-- LAYER NR. 1 -->
-                            <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0" id="slide-layer-7" 
-                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                 data-y="['middle','middle','middle','middle']" data-voffset="['-140','-140','-135','-225']" 
-                                 data-fontsize="['46','40','30','25']"
-                                 data-lineheight="['100','70','70','65']"
-                                 data-width="none"
-                                 data-height="none"
-                                 data-whitespace="nowrap"
-                                 data-transform_idle="o:1;"
-                                 data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="1000" 
-                                 data-splitin="chars" 
-                                 data-splitout="none" 
-                                 data-responsive_offset="on"
-                                 data-elementdelay="0.05" 
-                                 style="z-index: 5; white-space: nowrap; position:relative; color:#333; font-weight: normal; font-family: 'Montserrat', sans-serif; text-transform: uppercase;">riga candies
-                            </div>
-
-                            <!-- LAYER NR. 2 -->
-                            <div class="tp-caption NotGeneric-SubTitle tp-resizeme rs-parallaxlevel-0" id="slide-layer-8" 
-                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                 data-y="['middle','middle','middle','middle']" data-voffset="['-70','-70','-90','-180']" 
-                                 data-fontsize="['18','18','14','14']"
-                                 data-lineheight="['28','28','28','15']"
-                                 data-width="['1920','1024','768','480']"
-                                 data-height="none"
-                                 data-whitespace="normal"
-                                 data-transform_idle="o:1;"
-                                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="1500" 
-                                 data-splitin="none" 
-                                 data-splitout="none" 
-                                 data-responsive_offset="on" 
-                                 style="z-index: 6; white-space: noraml; text-align: center; min-width: 1920px; max-width: 1920px; position:relative; color:#777; font-weight:500; font-family: 'Raleway', sans-serif;">A shadowy flight into the dangerous world of a man who  four five six seven eight    
-                            </div>
-
-                            <!-- LAYER NR. 3 -->
-                            <div class="tp-caption NotGeneric-SubTitle tp-resizeme rs-parallaxlevel-0" id="slide-layer-9" 
-                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                 data-y="['middle','middle','middle','middle']" data-voffset="['-40','-40','-60','-155']" 
-                                 data-fontsize="['18','18','14','14']"
-                                 data-lineheight="['28','28','28','28']"
-                                 data-width="none"
-                                 data-height="none"
-                                 data-whitespace="nowrap"
-                                 data-transform_idle="o:1;"
-                                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="1500" 
-                                 data-splitin="none" 
-                                 data-splitout="none" 
-                                 data-responsive_offset="on" 
-                                 style="z-index: 6; white-space: nowrap; position:relative; color:#777; font-weight:500; font-family: 'Raleway', sans-serif;">clemeel schlemazel hasenfeffer incorporated.     
-                            </div>
-
-                            <!-- LAYER NR. 4 -->
-                            <div class="tp-caption NotGeneric-Title tp-resizeme rs-parallaxlevel-0 slide-btn" id="slide-layer-10" 
-                                 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                 data-y="['top','top','top','top']"  data-voffset="['370','300','215','150']"
-                                 data-fontsize="['14','70','70','12']"
-                                 data-lineheight="['60','70','70','90']"
-                                 data-width="none"
-                                 data-height="none"
-                                 data-whitespace="noraml"
-                                 data-transform_idle="o:1;"
-                                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="1500" 
-                                 data-splitin="none" 
-                                 data-splitout="none"							
-                                 data-responsive_offset="on"							
-                                 style="z-index:6; position:relative;">
-                                <a style="font-weight: 700; padding: 12px 37px; font-family: 'Raleway', sans-serif;" href="#" title="Want to view">want to view</a>
-                                <a style="font-weight: 700; padding: 12px 37px; font-family: 'Raleway', sans-serif;" href="#" title="Read More">Read More</a>
-                            </div>
-                            <div class="tp-caption NotGeneric-Icon tp-resizeme rs-parallaxlevel-1 slider-img" id="slide-layer-11" 
-                                 data-x="['left','left','left','left']" data-hoffset="['360','130','10','0']" 
-                                 data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-75','-75','-50','-50']"
-                                 data-fontsize="['20','60','60','60']"
-                                 data-lineheight="['70','70','70','90']"
-                                 data-width="none"
-                                 data-height="none"
-                                 data-whitespace="nowrap"
-                                 data-transform_idle="o:1;"
-                                 data-style_hover="cursor:default;"
-                                 data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="2000" 
-                                 data-splitin="none" 
-                                 data-splitout="none" 
-                                 data-responsive_offset="on" 
-                                 style="white-space: nowrap;">
-                                <img src="img/slider-1.png" alt="slider">
-                            </div>
-                            <div class="tp-caption NotGeneric-Icon tp-resizeme rs-parallaxlevel-1 slider-img" id="slide-layer-12" 
-                                 data-x="['right','right','right','right']" data-hoffset="['360','130','10','0']" 
-                                 data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-75','-75','-50','-50']"
-                                 data-fontsize="['20','60','60','60']"
-                                 data-lineheight="['70','70','70','90']"
-                                 data-width="none"
-                                 data-height="none"
-                                 data-whitespace="nowrap"
-                                 data-transform_idle="o:1;"
-                                 data-style_hover="cursor:default;"
-                                 data-transform_in="x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power4.easeInOut;" 
-                                 data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                                 data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" 
-                                 data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-                                 data-start="2000" 
-                                 data-splitin="none" 
-                                 data-splitout="none" 
-                                 data-responsive_offset="on" 
-                                 style="white-space: nowrap;">
-                                <img src="img/slider-2.png" alt="slider">
-                            </div>
-                        </li>
-                    </ul>
-                </div><!-- END REVOLUTION SLIDER -->
-            </div><!-- END OF SLIDER WRAPPER -->
-        </div><!-- Slider Section 1 /- -->
+                <!-- Controls -->
+                <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </section><!-- Slider Section 1 /- -->
 
         <!-- Home About Section -->
         <div class="home-about-section container-fluid">
@@ -338,9 +91,9 @@
             <div class="container">
                 <!-- Section Header -->
                 <div class="section-header">
-                    <h3>about our products</h3>
-                    <h5>Welcome to our cake & candy shop</h5>
-                    <img src="img/header-seprator.png" alt="seprator">
+                    <h3>SOBRE NOSSOS PRODUTOS</h3>
+                    <h5>Bem-vindo a Cia</h5>
+                    <img src="images/icons/separador.png" alt="seprator">
                 </div><!-- Section Header /- -->
                 <div class="about-content">
                     <p>Love exciting new. Come aboard  expecting you. Love life's sweetest reward Let it flow it floats back to you. That this group would somehow form a family that's the way we all became the Brady Bunch.</p>
@@ -355,9 +108,9 @@
             <div class="container">
                 <!-- Section Header -->
                 <div class="section-header">
-                    <h3>our menus</h3>
-                    <h5>Our pricing amount based on our products</h5>
-                    <img src="img/header-seprator.png" alt="seprator">
+                    <h3>Nossos Produtos</h3>
+                    <h5>Coxinhas de Morango</h5>
+                    <img src="images/icons/separador.png" alt="seprator">
                 </div><!-- Section Header /- -->
                 <ul class="products">
                     <li class="product">							
@@ -446,9 +199,9 @@
             <div class="container">
                 <!-- Section Header -->
                 <div class="section-header">
-                    <h3>clients testimonials</h3>
-                    <h5>We are make high quality products for you</h5>
-                    <img src="img/header-seprator.png" alt="seprator">
+                    <h3>TESTEMUNHOS</h3>
+                    <h5>Nossos Clientes</h5>
+                    <img src="images/icons/separador.png" alt="seprator">
                 </div><!-- Section Header /- -->
                 <!-- Main Carousel -->
                 <div id="main-carousel1" class="carousel slide carousel-fade" data-ride="carousel">
@@ -507,25 +260,22 @@
                 </div><!-- Main Carousel /-  -->
             </div><!-- Container /- -->
         </div><!-- Testimonial Section /- -->
-        
-        
+
+
         <!-- Contact Section -->
         <div class="contact-section container-fluid no-padding">
             <!-- Container -->
             <div class="container">
                 <!-- Section Header -->
                 <div class="section-header">
-                    <h3>the customers</h3>
-                    <h5>Our creations only for you with love</h5>
-                    <img src="img/header-seprator.png" alt="seprator">
+                    <h3>CONTATO</h3>
+                    <h5>Nós fazemos produtos de alta qualidade para você</h5>
+                    <img src="images/icons/separador.png" alt="seprator">
                 </div><!-- Section Header /- -->
                 <div class="contact-us col-md-8">
                     <form>
                         <div class="form-group">
                             <input type="text" name="contact-fname" class="form-control" id="input_fname" placeholder="First Name" required/>
-                        </div>
-                        <div class="form-group">
-                            <input name="contact-lname" id="input_lname" required="" placeholder="Last Name" class="form-control" type="text">
                         </div>
                         <div class="form-group">
                             <input type="email" name="contact-email" class="form-control" id="input_email" placeholder="E mail Address" required/>

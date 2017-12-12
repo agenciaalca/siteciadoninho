@@ -5,7 +5,7 @@
         
         <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="copyright-content">
-                <p>&copy; All rights reserved</p>
+                <p>&copy; CIA DO NINHO. ALL RIGHTS RESERVED</p>
             </div>
         </div>
     </div><!-- Container /- -->

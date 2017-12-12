@@ -11,21 +11,21 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <meta name="description" content="">
-        <meta name="author" content="">
+        <meta name="author" content="Agência Alca">
 
-        <title>Riga - Home1</title>
+        <title>Cia do ninho</title>
 
         <!-- Standard Favicon -->
-        <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+        <link rel="icon" type="image/png" href="images/icons/favicon.png" />
 
-        <!-- For iPhone 4 Retina display: -->
+<!--         For iPhone 4 Retina display: 
         <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114x114-precomposed.png">
 
-        <!-- For iPad: -->
+         For iPad: 
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images//apple-touch-icon-72x72-precomposed.png">
 
-        <!-- For iPhone: -->
-        <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57x57-precomposed.png">
+         For iPhone: 
+        <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57x57-precomposed.png">-->
 
         <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
 
