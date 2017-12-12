@@ -1,47 +1,6 @@
 <?php include_once 'header.php'; ?>
 
-<body data-offset="200" data-spy="scroll" data-target=".ow-navigation">
-    <!-- Loader -->
-    <div id="site-loader" class="load-complete">
-        <div class="loader">
-            <div class="loader-inner ball-clip-rotate">
-                <div></div>
-            </div>
-        </div>
-    </div><!-- Loader /- -->
 
-    <!-- Header Section -->
-    <header id="header" class="header-section container-fluid no-padding">
-        <!-- Menu Block -->
-        <div class="container-fluid no-padding menu-block">
-            <!-- Container -->
-            <div class="container">
-                <!-- nav -->
-                <nav class="navbar navbar-default ow-navigation">
-                    <div class="navbar-header">
-                        <button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a href="index.php" class="navbar-brand"><img src="images/icons/logo_simbolo-03.png" width="120px" alt="logo marca cia do ninho"></a>
-                    </div>
-
-                    <div class="navbar-collapse collapse navbar-right" id="navbar">
-                        <ul class="nav navbar-nav">
-                            <li><a href="index.html" title="Services">Home</a></li>
-                            <li><a title="Menus" href="our-menus.html">SOBRE</a></li>
-                            <li><a title="Pricing" href="#pricing-section">PREÇOS</a></li>
-                            <li><a title="Shop Category" href="shop-category.html">LOJA</a></li>
-                            <li><a title="Order Now" href="order-now.html">DES PRODUTO</a></li>
-                            <li><a title="Contato" href="#contato">CONTATO</a></li>
-                        </ul>
-                    </div><!--/.nav-collapse -->
-                </nav><!-- nav /- -->
-            </div><!-- Container /- -->
-        </div><!-- Menu Block /- -->
-    </header><!-- Header Section /- -->
 
     <main>
         <!-- Slider Section 1 -->
