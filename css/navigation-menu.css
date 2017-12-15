@@ -66,6 +66,7 @@
 	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	color: #fff;
+        font-weight: bold;
 	letter-spacing: 0.28px;
 	text-transform: uppercase;
 	margin: 40px 22px;
@@ -440,7 +441,7 @@
 	.ow-navigation .navbar-default .navbar-toggle:focus, 
 	.ow-navigation .navbar-default .navbar-toggle:hover,
 	.ow-navigation .navbar-toggle:hover {
-		background-color: #000;
+		background-color: #E48B30;
 	}
 	.navbar-default .navbar-toggle:focus .icon-bar, 
 	.navbar-default .navbar-toggle:hover .icon-bar,

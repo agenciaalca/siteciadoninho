@@ -63,8 +63,8 @@
 	overflow: visible !important;
 }
 .slider-section .slide-btn > a {
-	background-color: #a04699;
-	border: 1px solid #a04699;
+	background-color: #DD224C;
+	border: 1px solid #DD224C;
     border-radius: 0;
     color: #fff;
     font-size: 14px !important;
@@ -78,7 +78,7 @@
 }
 .slider-section .slide-btn > a:hover {
 	background-color: transparent;
-	color: #a04699;
+	color: #DD224C;
 }
 .slider-section .slide-btn > a:last-of-type {
 	background-color: transparent;
@@ -90,7 +90,7 @@
 	background-color: #d5bfda; 
 }
 .slider-section .uranus.tparrows {
-    background-color: #a04699;
+    background-color: #DD224C;
     border-radius: 100%;
     height: 58px;
     width: 58px;
@@ -113,13 +113,13 @@
 	margin-bottom: 0;
 }
 .slider-section.slider-section2 .slide-btn > a {
-	background-color: #a04699;
+	background-color: #DD224C;
 	border: none !important;
 	color: #fff;
 	padding: 14px 48px !important;
 }
 .slider-section.slider-section2 .uranus.tparrows:hover {
-	border: 1px solid #a04699;
+	border: 1px solid #DD224C;
 	background-color: transparent;
 }
 .slider-section.slider-section2 .uranus.tparrows:hover::before {
@@ -174,7 +174,7 @@
 	width: auto;
 }
 .testimonial-section .carousel-indicators li {
-	background-color: #a04699;
+	background-color: #DD224C;
 	border: none;
 	border-radius: 0;
 	height: 7px;
@@ -241,7 +241,7 @@
 }
 .testimonial-section .carousel-control i {
 	background-color: transparent;
-	border: 1px solid #a04699;
+	border: 1px solid #DD224C;
 	border-radius: 100%;
 	color: #434241;
 	display: inline-block;
@@ -258,7 +258,7 @@
 	transition: all 1s ease 0s;
 }
 .testimonial-section .carousel-control i:hover {
-	background-color: #a04699;
+	background-color: #DD224C;
 	color: #fff;
 }
 
@@ -279,7 +279,7 @@
 	position: relative;
 }
 .team-section .team-hover-box {
-	background-color: #a04699;
+	background-color: #DD224C;
 	padding: 15px 0;
 	text-align: center;
 	min-height: 80px;
@@ -321,7 +321,7 @@
 	text-decoration: none;
 }
 .team-section .team-hover-box ul li a:hover {
-	color: #a04699;
+	color: #DD224C;
 }
 .team-section .col-md-3:hover .team-hover-box {
 	background-color: #000;
@@ -412,7 +412,7 @@
 	padding-right: 66px;
 }
 .type-post .entry-header .post-date {
-	background-color: #a04699;
+	background-color: #DD224C;
 	float: right;
 	padding: 4px 14px;
 	text-align: center;
@@ -446,10 +446,10 @@
 	text-decoration: none;
 }
 .type-post .entry-meta a:hover {
-	color: #a04699;
+	color: #DD224C;
 }
 .type-post .entry-meta a > i {
-	color: #a04699;
+	color: #DD224C;
 	padding-right: 8px;
 }
 .type-post .post-like,
@@ -466,14 +466,14 @@
 	margin-bottom: 20px;
 }
 .type-post .entry-header h3.entry-title span {
-	color: #a04699;  
+	color: #DD224C;  
 }
 .type-post .entry-header h3.entry-title a {
 	color: #333;
 	text-decoration: none;
 }
 .type-post .entry-header h3.entry-title a:hover {
-	color: #a04699;
+	color: #DD224C;
 }
 .type-post .entry-content p {
 	color: #333;
@@ -484,7 +484,7 @@
 	margin-bottom: 35px;
 }
 .type-post a.read-more {
-	color: #a04699;
+	color: #DD224C;
 	font-weight: 500;
 	font-size: 14px;
 	letter-spacing: 0.56px;
@@ -525,7 +525,7 @@
 	width: 100%;
 }
 .widget-area .widget_search {
-	background-color: #a04699;
+	background-color: #DD224C;
 	border-radius: 6px;
 }
 .widget-area .widget_search .input-group .form-control,
@@ -598,7 +598,7 @@
 	transition: all 1s ease 0s;
 }
 .widget-area .widget_categories ul li a:hover {
-	color: #a04699;
+	color: #DD224C;
 }
 
 /* - Widget Tags */
@@ -622,8 +622,8 @@
 	padding: 12px 70px;
 }
 .widget-area .widget_tags a:hover {
-	background-color: #a04699;
-	border: 1px solid #a04699;
+	background-color: #DD224C;
+	border: 1px solid #DD224C;
 	color: #fff;
 }
 
@@ -639,7 +639,7 @@
 	width: 100%;
 }
 .widget-area .widget_latestposts h5::before {
-	color: #a04699;
+	color: #DD224C;
 	content: "\f0c8";
 	font-family:'FontAwesome';
 	font-size: 12px;
@@ -701,7 +701,7 @@
 	margin: 0;
 }
 .about-author .author-comment .post-date{
-	background-color: #a04699;
+	background-color: #DD224C;
     float: right;
     padding: 2px 12px;
     text-align: center;
@@ -761,7 +761,7 @@
 	transition: all 1s ease 0s;
 }
 .author-content a.reply:hover {
-	color: #a04699;
+	color: #DD224C;
 }
 .author-content a.reply i {
 	padding-left: 10px;
@@ -887,7 +887,7 @@
 	word-wrap: break-word;
 }
 .latest-blog .latest-blog-content h3.entry-title a:hover {
-	color: #a04699;
+	color: #DD224C;
 }
 .latest-blog .latest-blog-content .entry-content p {
 	margin-bottom: 25px;
@@ -952,9 +952,9 @@
 	color: #777;
 }
 .reservation-section a.request {
-	background-color: #a04699;
+	background-color: #DD224C;
 	border-radius: 3px;
-	border: 1px solid #a04699;
+	border: 1px solid #DD224C;
 	color: #fff;
 	display: inline-block;
 	font-family: 'montserratsemi_bold';
@@ -970,7 +970,7 @@
 }
 .reservation-section a.request:hover {
 	background-color: transparent;
-	color: #a04699;
+	color: #DD224C;
 	text-decoration: none;
 }
 
@@ -1010,7 +1010,7 @@
 	word-wrap: break-word;
 }
 .pricing-section .pricing-content > span {
-	background-color: #a04699;
+	background-color: #DD224C;
 	border-radius: 3px;
 	border-bottom-left-radius: 10px; 
 	color: #fff;
@@ -1081,7 +1081,7 @@
 	padding: 0 72px;
 }
 .order-section .order-content a {
-	background-color: #a04699;
+	background-color: #DD224C;
 	color: #fff;
 	display: inline-block;
 	font-family: 'montserratsemi_bold';
@@ -1130,7 +1130,7 @@
 	left: 0;
 }
 .service-section .service-content h3 {
-	color: #a04699;
+	color: #DD224C;
 	font-family: 'montserratsemi_bold';
 	font-size: 16px;
 	line-height: 24px;
@@ -1175,12 +1175,12 @@
 	transition: all 1s ease 0s;
 }
 .gallery-section .portfolio-categories li a:hover {
-	color: #a04699;
+	color: #DD224C;
 }
 .gallery-section .portfolio-categories li a.active,
 .gallery-section .portfolio-categories li a:hover,
 .gallery-section .portfolio-categories li a:focus {
-	color: #a04699;
+	color: #DD224C;
 }
 .gallery-section .portfolio-list {
 	margin-bottom: 0;
@@ -1253,7 +1253,7 @@
 	padding-top: 70px;
 }
 .gallery-single-section .gallery-single-content h5 {
-	color: #a04699;
+	color: #DD224C;
 	font-family: 'Montserrat', sans-serif;
 	letter-spacing: 0.84px;
 	line-height: 30px;
@@ -1277,7 +1277,7 @@
 	margin-bottom: 35px;
 }
 .gallery-single-section .gallery-single-content > a {
-	color: #a04699;
+	color: #DD224C;
 	font-family: 'Montserrat', sans-serif;
 	letter-spacing: 0.84px;
 	line-height: 30px;
@@ -1365,7 +1365,7 @@
 	height: 57px;
 	width: 57px;
 	border-radius: 100%;
-	border: 1px solid #a04699;
+	border: 1px solid #DD224C;
 	background-color: transparent;
 	color: #000;
 	display: inline-block;
@@ -1388,7 +1388,7 @@
 .clients .owl-theme .owl-controls .owl-nav [class*="owl-"]::before {
 	font-family: 'FontAwesome';
 	font-size: 20px;
-	color: #a04699;
+	color: #DD224C;
 }
 .clients .owl-theme .owl-controls .owl-nav .owl-prev::before { 
 	content: "\f104";
@@ -1397,7 +1397,7 @@
 	content: "\f105";
 }
 .clients .owl-theme .owl-controls .owl-nav [class*="owl-"]:hover {
-	background-color: #a04699;
+	background-color: #DD224C;
 }
 .clients .owl-theme .owl-controls .owl-nav [class*="owl-"]:hover::before {
 	color: #fff;
@@ -1424,7 +1424,7 @@
 	margin-bottom: 65px;
 }
 .call-out .call-out-content a {
-	background-color: #a04699;
+	background-color: #DD224C;
 	color: #fff;
 	display: inline-block;
 	font-family: 'Montserrat', sans-serif;
@@ -1476,8 +1476,8 @@
 	font-size: 14px;
 	display: inline-block;
 	font-family: 'montserratsemi_bold';
-	background-color: #a04699;
-	border: 1px solid #a04699;
+	background-color: #DD224C;
+	border: 1px solid #DD224C;
 	text-transform: uppercase;
 	text-decoration: none;
 	padding: 14px 0;
@@ -1488,7 +1488,7 @@
 }
 .contact-section .contact-us .form-group button:hover {
 	background-color: transparent;
-	color: #a04699;
+	color: #DD224C;
 }
 /* - Alert Msg */
 .alert-msg {
@@ -1517,12 +1517,12 @@
 	max-width: 303px;
 	display: block;
 	margin: 0 auto;
-	background-color: #a04699;
+	background-color: #DD224C;
 	height: 330px;
 	position: relative;
 }
 .map-content h3 {
-	background-color: #a04699;
+	background-color: #DD224C;
     font-family: 'montserratsemi_bold';
     font-size: 16px;
     letter-spacing: 0.64px;
@@ -1616,7 +1616,7 @@
 	font-size: 14px;
 	text-transform: uppercase;	
 	font-family: 'montserratsemi_bold';
-	background-color: #a04699;
+	background-color: #DD224C;
 	letter-spacing: 0.56px;
 	text-decoration: none;
 	line-height: 18px;
@@ -1729,9 +1729,9 @@
 	margin-top: 60px;
 }
 .error-page .error-content a {
-	border: 1px solid #a04699;
+	border: 1px solid #DD224C;
 	display: inline-block;
-	background-color: #a04699;
+	background-color: #DD224C;
 	color: #fff;
 	font-family: 'montserratsemi_bold';
 	letter-spacing: 0.56px;
@@ -1746,7 +1746,7 @@
 }
 .error-page .error-content a:hover {
 	background-color: transparent;
-	color: #a04699;
+	color: #DD224C;
 }
 
 /*---------------------------------------------------
