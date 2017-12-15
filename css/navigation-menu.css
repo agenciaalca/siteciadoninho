@@ -10,7 +10,6 @@
 
 /* * Navigation Menu */
 .navbar-brand {
-	height: auto;
 	font-family: 'Montserrat', sans-serif;
 }
 .navbar-brand > img {
@@ -40,7 +39,6 @@
 	padding-left: 0;
 	color: #fff;
 	display: inline-block;
-	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
 	font-size: 28px;
 	line-height: 20px;
@@ -63,13 +61,11 @@
 	margin-right: 0;
 }
 .menu-block .ow-navigation.navbar-default .navbar-nav > li > a {
-	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	color: #fff;
-        font-weight: bold;
 	letter-spacing: 0.28px;
 	text-transform: uppercase;
-	margin: 40px 22px;
+	margin: 40px 22px 20px;
 	padding-left: 0;
 	padding-top: 0;
 	padding-right: 0;

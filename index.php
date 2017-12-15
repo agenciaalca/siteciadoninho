@@ -14,8 +14,8 @@
                         <div class="carousel-caption">
                             <h1>Titulo</h1>
                             <p>Descrição</p>
-                            <a href="#" class="btn btn-default">QUERO</a>
-                            <a href="#" class="btn btn-default">SAIBA MAIS</a>
+                            <a href="#" class="slide-btn">QUERO</a>
+                            <a href="#" class="slide-btn">SAIBA MAIS</a>
                         </div>
                     </div>
                     
@@ -24,19 +24,19 @@
                         <div class="carousel-caption">
                             <h1>Titulo</h1>
                             <p>Descrição</p>
-                            <a href="#" class="btn btn-default">QUERO</a>
-                            <a href="#" class="btn btn-default">SAIBA MAIS</a>
+                            <a href="#" class="slide-btn">QUERO</a>
+                            <a href="#" class="slide-btn">SAIBA MAIS</a>
                         </div>
                     </div>
                 </div>
 
                 <!-- Controls -->
                 <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span><img src="images/icons/seta - 1.png"</span>
                     <span class="sr-only">Previous</span>
                 </a>
                 <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span><img src="images/icons/seta_dir_2.png"</span>
                     <span class="sr-only">Next</span>
                 </a>
             </div>
